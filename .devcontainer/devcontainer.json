@@ -1,0 +1,19 @@
+{
+  "name": "dev",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorTheme": "Monokai",
+        "workbench.startupEditor": "none",
+        "workbench.telemetryOptOutShown": true,
+        "workbench.welcomePage.restorableWalkthroughs": false
+      }
+    }
+  },
+  "settings": {
+    "workbench.colorTheme": "Monokai",
+    "workbench.startupEditor": "none",
+    "workbench.telemetryOptOutShown": true,
+    "workbench.welcomePage.restorableWalkthroughs": false
+  }
+}
